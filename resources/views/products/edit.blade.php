@@ -7,7 +7,13 @@
     <title>Edit Products - SantriKoding.com</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body style="background: lightgray">
+<body  style="background-image: url('../assets/img/office2.jpg'); /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;">
 
     <div class="container mt-5 mb-5">
         <div class="row">
